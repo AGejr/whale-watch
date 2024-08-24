@@ -1,0 +1,6 @@
+TODO:
+- Adjust column width
+- restructure and improve code
+- Fix textview title
+- Error messages
+- Search in new thread
