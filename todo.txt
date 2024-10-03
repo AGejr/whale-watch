@@ -1,9 +1,0 @@
-TODO:
-- Adjust column width
-- restructure and improve code
-- Fix textview title
-- Error messages
-- Search in new thread
-- Make '/' only appear when in search mode
-- Add ':' when in command mode
-- Sort volumes before displaying
